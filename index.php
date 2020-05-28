@@ -3,6 +3,6 @@
   <title>Teste PHP - My Test - 001</title>
  </head>
  <body>
- <?php echo "<p>Hello, atualizado3!!!</p>"; ?>
+ <?php echo "<p>Hello, ATUALIZADO1!!!</p>"; ?>
  </body>
 </html>
